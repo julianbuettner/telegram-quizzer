@@ -1,0 +1,30 @@
+# Catalogue Sources
+*.zip
+*.pdf
+
+# Config
+.env
+config.ini
+
+# Persistent Database
+*.dump
+*.sqlite3
+*.jpg
+catalogue/
+catalogues/
+userdata/
+tracebacks/
+
+# Logging
+log/
+*.log
+
+# Python Caching
+__pycache__/
+*.pyc
+
+# Temporary files
+.images/
+
+# Editors
+.vscode/

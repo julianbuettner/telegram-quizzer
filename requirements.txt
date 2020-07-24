@@ -1,0 +1,2 @@
+python-telegram-bot
+git+https://github.com/RandomApfel/questioncataloguing
